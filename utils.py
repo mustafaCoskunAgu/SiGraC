@@ -8,7 +8,7 @@ import networkx as nx
 import numpy as np
 
 import OpenNE.graph as og
-import struc2vec.graph as sg
+#import struc2vec.graph as sg
 
 
 def read_for_OpenNE(filename, weighted=False):
