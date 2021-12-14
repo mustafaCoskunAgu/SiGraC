@@ -27,12 +27,6 @@ def read_for_OpenNE_from_mat(filename):
     print("Mat Graph loaded")
     return G
     
-def read_for_struc2vec(filename):
-    print("Loading training graph for learning embedding...")
-    G = sg.load_edgelist(filename, undirected=True)
-    print("Graph Loaded...")
-    return G
-
 
 def read_for_gae(filename, weighted=False):
     print("Loading training graph for learning embedding...")
