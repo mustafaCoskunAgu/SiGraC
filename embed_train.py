@@ -9,7 +9,7 @@ import os
 from sklearn.preprocessing import scale
 from GAE.train_model import gae_model
 from OpenNE import gf, grarep, hope, lap, line, node2vec, sdne,RWR
-from SVD.model import SVD_embedding
+#from SVD.model import SVD_embedding
 #from struc2vec import struc2vec
 from utils import *
 from scipy.linalg import fractional_matrix_power, inv
