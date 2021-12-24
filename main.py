@@ -136,7 +136,7 @@ def main(args):
 
     if args.task == 'link-prediction':
         partitiondata = ['DDI1.edgelist']
-        techniques = ['node2vec']
+        techniques = ['DGI']
         
         for d in partitiondata:
             print(d)
