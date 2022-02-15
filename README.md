@@ -28,3 +28,15 @@ Change parser.add_argument('--embTech', choices=[ 'DGI', 'CN', 'AA',
 For various convolution matrix option change HDI to RA, HPI,etc.
 
 For any question email me via mustafa.coskun@agu.edu.tr
+
+If you find this code useful, please cite:
+@article{cocskun2021node,
+  title={Node similarity-based graph convolution for link prediction in biological networks},
+  author={Co{\c{s}}kun, Mustafa and Koyut{\"u}rk, Mehmet},
+  journal={Bioinformatics},
+  volume={37},
+  number={23},
+  pages={4501--4508},
+  year={2021},
+  publisher={Oxford University Press}
+}
