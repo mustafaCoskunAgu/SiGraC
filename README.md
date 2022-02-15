@@ -30,6 +30,8 @@ For various convolution matrix option change HDI to RA, HPI,etc.
 For any question email me via mustafa.coskun@agu.edu.tr
 
 If you find this code useful, please cite:
+
+
 @article{cocskun2021node,
   title={Node similarity-based graph convolution for link prediction in biological networks},
   author={Co{\c{s}}kun, Mustafa and Koyut{\"u}rk, Mehmet},
