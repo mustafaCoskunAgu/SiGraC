@@ -18,6 +18,8 @@ numpy
 
 ...
 
+PS: I got a few questions about the torch version. Pyton 3.6.10 torch: 1.9.0 + cpu
+
 Run
 
 main.py
