@@ -29,7 +29,7 @@ Change parser.add_argument('--embTech', choices=[ 'DGI', 'CN', 'AA',
 ], default='HDI', help='The embedding learning method')
 For various convolution matrix option change HDI to RA, HPI,etc.
 
-For any question email me via mustafa.coskun@agu.edu.tr
+For any question email me via coskunmustafa@ankara.edu.tr
 
 If you find this code useful, please cite:
 
